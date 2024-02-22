@@ -1,0 +1,10 @@
+.container{
+    border: 1px solid grey;
+    position: relative;
+    margin: auto;
+    height: 700px;
+
+    display: flex;
+    place-content: center;
+
+}
